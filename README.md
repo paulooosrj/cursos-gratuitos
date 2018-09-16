@@ -71,6 +71,13 @@ https://goo.gl/dgs7On
 Curso de Grunt (16 aulas)(inglês)
 https://goo.gl/8KZskT
 
+Curso de C# Básico (18 aulas)
+https://goo.gl/ZX7GW4
+
+Curso de C# Intermediário  (18 aulas)
+https://goo.gl/xmSyhr
+
+
 #### FRAMEWORKS DE PHP
 
 
@@ -94,6 +101,9 @@ https://goo.gl/wom29p
 
 Curso de MongoDB (9 aulas)
 https://goo.gl/xc1LAo
+
+Curso Completo de banco de dados (18 aulas)
+https://goo.gl/mt57cd
 
 #### CMS
 
