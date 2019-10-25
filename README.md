@@ -35,6 +35,9 @@ https://goo.gl/bAO0hE
 Curso completo de Javascript (46 aulas)
 https://goo.gl/zfjfkQ
 
+Curso de React (12 aulas)
+https://rocketseat.com.br/starter/curso-gratuito-reactjs
+
 Curso Completo de jQuery (56 aulas)
 https://goo.gl/tHdIZ7
 
@@ -43,6 +46,9 @@ https://goo.gl/6rT9ZC
 
 Curso de Angular 2 (56 aulas)
 https://goo.gl/mxPqRt
+
+Curso de Relay (19 aulas)
+https://relay-modern-course.now.sh/packages/
 
 #### BACKEND
 
@@ -148,6 +154,9 @@ https://goo.gl/99NW2O
 
 Curso de Desenvolvimento de Apps para Android (30 aulas)
 https://goo.gl/btlCUv
+
+Curso de React Native (11 aulas)
+https://rocketseat.com.br/starter/curso-gratuito-react-native
 
 Curso de Desenvolvimento de Apps para iOS com Swift (28 aulas)
 https://goo.gl/RyuNoA
